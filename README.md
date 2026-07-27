@@ -3,7 +3,10 @@
 A fully custom 3D-printed thrust-vector-control (TVC) gimbal for a model rocket motor — real-time gyroscope-driven actuation using an MPU6050 and RC servos.
 Print at: 220C, 60C bed temp, Elegoo PLA+
 
-🎥 [Watch it in action on YouTube](https://www.youtube.com/watch?v=dMqgMUTd--s)
+<p align="center">
+  <img width="240" height="200" alt="gimbalgifsmaller" src="https://github.com/user-attachments/assets/943b5b8e-7d61-4bf0-9c4d-99d660dbc3eb" />
+
+</p>
 
 ---
 
