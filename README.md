@@ -4,7 +4,7 @@ A fully custom 3D-printed thrust-vector-control (TVC) gimbal for a model rocket 
 Print at: 220C, 60C bed temp, Elegoo PLA+
 
 <p align="center">
-  <img width="240" height="200" alt="gimbalgifsmaller" src="https://github.com/user-attachments/assets/943b5b8e-7d61-4bf0-9c4d-99d660dbc3eb" />
+  <img width="850" height="480" alt="gimbalgifsmaller" src="https://github.com/user-attachments/assets/943b5b8e-7d61-4bf0-9c4d-99d660dbc3eb" />
 
 </p>
 
